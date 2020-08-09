@@ -17,7 +17,7 @@ skills:
 
 - name: Ionic
   icon: "images/skills/ionic.png"
-  summary: "Used this alongside Angular for cross-platform mobile app development."
+  summary: "Using this alongside Angular for cross-platform mobile app development."
   url: "https://ionicframework.com/"
 
 - name: Firebase
