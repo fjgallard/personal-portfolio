@@ -19,35 +19,34 @@ resume: "files/resume.pdf"
 summary: 
   "I'm a Full-Stack Web developer. 
   I've built web applications using Angular and Firebase. 
-  My skillsets help my team solve problems and make things work. 
-  Sometimes, I work on some fun web app projects on the side over the weekend as well."
+  Sometimes, I work on some fun web app projects on the side over the weekend as well, feel free to check them out below!"
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "fjdgallardo@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/fjgallard"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+#- name: Stackoverflow
+#  icon: "fab fa-stack-overflow"
+#  url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/francis-jomer-gallardo-7bb220103/"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
+#- name: Twitter
+#  icon: "fab fa-twitter"
+#  url: "#"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
+#- name: Facebook
+#  icon: "fab fa-facebook"
+#  url: "#"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
