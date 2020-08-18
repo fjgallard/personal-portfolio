@@ -6,7 +6,7 @@ section:
   showOnNavbar: true
 
 # your designation
-designation: Web Developer
+designation: About Me
 # your company information
 #company:
 #  name: Example Co.
@@ -17,9 +17,7 @@ resume: "files/resume.pdf"
 
 # a summary about you
 summary: 
-  "I'm a Full-Stack Web developer. 
-  I've built web applications using Angular and Firebase. 
-  Sometimes, I work on some fun web app projects on the side over the weekend as well, feel free to check them out below!"
+  "Hi, my name is Francis, a passionate web developer from the Philippines. I make web applications using Angular, Ionic, and Firebase. Feel free to contact me if you have a project that you think I can help with!"
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
