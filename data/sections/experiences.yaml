@@ -1,0 +1,51 @@
+# section information
+section:
+  name: Experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Creatizens
+    url: "https://creatizens.com/"
+    location: Carolina Mall, Silang, Cavite
+    # company overview
+    overview:  Creatizens Corp is a team of innovative software engineers and app designers who build beautifully designed apps.
+  positions:
+  - designation: Fullstack Developer
+    start: Nov 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Develop hybrid mobile apps
+    - The lead Frontend developer for the team
+
+- company:
+    name: Infor.
+    url: "https://www.infor.com"
+    location: Seven Neo, Taguig, Metro Manila
+    overview: Infor delivers end-to-end ERP and strategic edge applications that are integrated and delivered in a multi-tenant cloud.
+  positions:
+  - designation: Software Developer
+    start: March 2016
+    end: May 2017
+    responsibilities:
+    - Fixing bugs and creating new features for Infor's Saas
+    - Developing and maintaining an internal web app to gamify courses and trainings.
+
+- company:
+    name: Yondu.
+    url: "https://www.yondu.com/"
+    location: Panorama Tower, Taguig, Metro Manila
+    overview: Yondu is a top-notch IT solutions company in the Philippines for Cloud Services, Software Development, IT Staff Augmentation, SMS and Managed Services.
+  positions:
+  - designation: Junior Software Developer
+    start: Sept 2014
+    end: Nov 2015
+    responsibilities:
+    - Worked with the Big Data team for Globe.

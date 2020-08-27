@@ -1,21 +1,27 @@
-baseURL = "http://localhost:1313/"
+baseURL = ""
 languageCode = "en-us"
-title = "Web Developer Specialist and Coke Zero enthusiast extraordinaire"
+title = "Web Developer Portfolio"
 theme = "toha"
 
 [Params]
-  background = 'images/bg-alt.jpg'
-  copyright = "© 2020 Copyright Yeah"
+  background = 'images/background2.jpg'
+  copyright = "© 2020 Copyright"
 
   [Params.Author]
+    name = "Francis Jomer Gallardo"
     nickname = "Jomer"
     image = "images/fjgallard.jpg"
+    photo = "images/photo.jpg"
     summary = [ 
-      "I'm a Full-Stack Web developer", 
-      "Feel free to explore my latest projects below",
-      "While you're here, check out articles on my blog",
-      "Send me a message: fjdgallardo@gmail.com"
+      "Full-Stack Web Developer", 
+      "Angular Developer",
+      "Firebase Developer",
+      "Ionic Developer",
+      "Javascript Developer"
     ]
+    [Params.Author.ContactInfo]
+      email = "fjdgallardo@gmail.com"
+      phone = "+639164266377"
 
 [Newsletter]
   enable = "false"
