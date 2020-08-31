@@ -47,7 +47,7 @@ var isMobile = false, isTablet = false, isLaptop = false;
           }, 800, function () {
 
             // Add hash (#) to URL when done scrolling (default click behavior)
-            window.location.hash = hash - offset;
+            // window.location.hash = hash - offset;
           });
         } // End if
       });
